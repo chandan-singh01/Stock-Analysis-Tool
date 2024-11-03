@@ -1,0 +1,1 @@
+This project involved creating an interactive tool in Streamlit to calculate stock beta and expected returns using CAPM. By integrating yfinance, it streamlined data retrieval and visualization, enhancing user experience and data clarity for financial analysis.
